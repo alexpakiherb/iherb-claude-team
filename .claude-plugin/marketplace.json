@@ -1,0 +1,14 @@
+{
+  "name": "iherb-claude-team",
+  "owner": {
+    "name": "Alex Pak",
+    "email": "alex.pak@iherb.com"
+  },
+  "plugins": [
+    {
+      "name": "iherb-pm-team",
+      "source": "./plugins/iherb-pm-team",
+      "description": "iHerb product team: Annie (pm-strategist), Mark (pm-executor), Aiko (ux-designer), Priya (data-analyst), plus the iHerb design system and content safety skills"
+    }
+  ]
+}
