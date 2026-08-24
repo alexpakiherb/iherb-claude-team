@@ -1,0 +1,9 @@
+{
+  "name": "iherb-pm-team",
+  "description": "iHerb product team agents (Annie/pm-strategist, Mark/pm-executor, Aiko/ux-designer, Priya/data-analyst) with the iHerb design system (iCL) and content safety skills",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Pak",
+    "email": "alex.pak@iherb.com"
+  }
+}
